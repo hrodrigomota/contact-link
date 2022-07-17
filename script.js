@@ -7,6 +7,14 @@ function dark() {
     darkTheme.classList.toggle('active')
 }
 
+function blackTheme() {
+    let bodyTheme = document.querySelector('#bodyTheme')
+    if (bodyTheme.classList.contains("dark")) {
+        bodyTheme.setAttribute('class', 'black dark')
+    } else {
+        bodyTheme.setAttribute('class', 'black')
+    }
+}
 
 function redTheme() {
     let bodyTheme = document.querySelector('#bodyTheme')
