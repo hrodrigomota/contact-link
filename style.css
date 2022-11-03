@@ -64,20 +64,6 @@ body.yellow.dark {
     --primary-color-dark: #FFA205;
 }
 
-/* body.yellow {
-    --bg-color: #fffae3;
-    --text-color: #F29F05;
-    --primary-color: #F2CE1B;
-    --primary-color-dark: #F2C12E;
-}
-
-body.yellow.dark {
-    --bg-color: black;
-    --text-color: #fffae3;
-    --primary-color: #F2CE1B;
-    --primary-color-dark: #F2C12E;
-} */
-
 body.green {
     --bg-color: #f0fcde;
     --text-color: #112900;
@@ -171,8 +157,6 @@ ul {
     margin: 46px 0;
 }
 
-
-
 ul li a {
     height: 53px;
     display: flex;
@@ -204,7 +188,6 @@ footer p.themeColor {
     opacity: 0.6;
     transition: opacity 400ms;
 }
-
 
 footer p.themeColor:hover {
     opacity: 1;
