@@ -1,7 +1,7 @@
 # Contact Link
 
 <p align="center" >
-  <img src="./assets/contact-links-screen.png" width="854px" height="480px" alt="Contact Link Screen" />
+  <img src="./assets/contact-link-screen.png" width="854px" height="480px" alt="Contact Link Screen" />
 </p>
 
 ## 📑 Description
